@@ -1,6 +1,6 @@
 #   SurfsUp Analysis
 ##  Overview of the Analysis:
-    - The purpose of this analysis is to extract the temperatures from a database for the months of June and December in Oahu which would help W.Avy decide on whether or not to set up an ice cream business there.
+    - The purpose of this analysis is to extract the temperatures from a database for the months of June and December in Oahu which would help W.Avy decide on whether or not to         set up an ice cream business there.
 
 ##  Results:
     - Three major points from the analysis are:
